@@ -1,13 +1,13 @@
 body {
-  background-color: rgb (138, 57, 57); /*Pode escolher outra cor se quiser*/
+  background-color: pink; /
 }
 
 h1 {
-  color: rgb (255, 253, 253); /*Pode escolher outra cor se quiser*/
+  color: white;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  color: white;
   font-size: 20px;
 }
